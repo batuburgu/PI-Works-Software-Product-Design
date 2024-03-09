@@ -1,0 +1,18 @@
+# User Management Screen
+
+## Overview
+
+The user management Screen allows administrators to view, add, edit, and delete user accounts within the system.
+
+# Requirements
+
+1. **View Users:**
+    - Display a list of all user accounts with relevant details (e.g., ID, Username, E-Mail, Enabled). These details must be filterable.
+
+2. **Add Users:**
+    - For adding users, the used should click a button and this click should make a form appear.
+    - The form has to contain the details of username, Display Name, Phone Number, Email, User Roles (Guest, Admin or SuperAdmin) and an checkbox for dedicating the user is enabled or not.
+    - After the form is filled, user must click to a button for saving the user.
+
+3. **User Filter:**
+    - The page should include a button for filtering out or in disabled users.
